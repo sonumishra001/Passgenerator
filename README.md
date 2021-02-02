@@ -1,5 +1,8 @@
 # Passgenerator 
-you need to install poetry to run this.
+
+#install python2 or python3 #
+you need to install poetry to run this
+#
 poetry run python2 -u main.py
 
 #or
